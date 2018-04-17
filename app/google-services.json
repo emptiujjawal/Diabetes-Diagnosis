@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421611544793",
+    "firebase_url": "https://cdss-9a6d8.firebaseio.com",
+    "project_id": "cdss-9a6d8",
+    "storage_bucket": "cdss-9a6d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421611544793:android:494d92647f29b1cc",
+        "android_client_info": {
+          "package_name": "empti.diabetesdiagnosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421611544793-nv2tjq0cq5bc63k3lna1tk4aua8jv3j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "empti.diabetesdiagnosis",
+            "certificate_hash": "8db047dbac8d3d37db0d36c2402519408dea8575"
+          }
+        },
+        {
+          "client_id": "421611544793-dcfltddg26katp78dmc7jptgsho01mgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimdvmnIwvqJvV3zVGAVNEIaftT3N7YbA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421611544793-dcfltddg26katp78dmc7jptgsho01mgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
